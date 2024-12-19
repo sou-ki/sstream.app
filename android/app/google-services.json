@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "972668608863",
+    "project_id": "fir-stream-f2cb9",
+    "storage_bucket": "fir-stream-f2cb9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972668608863:android:bf053ee86765e0525ad6ea",
+        "android_client_info": {
+          "package_name": "com.sstream.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxNLej7WB-MMNAf_b_1c7RadesQUCum_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
