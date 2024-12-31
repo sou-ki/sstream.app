@@ -1,6 +1,5 @@
 # sstream
-proyek ini masi dalam tahap pengembangan
-A new Flutter project.
+The project is still in the development stage
 
 ## Getting Started
 
